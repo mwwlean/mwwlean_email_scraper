@@ -1,4 +1,4 @@
-![](assets/long_banner.png)
+![](assets/mwwlean_email_scraper.png)
 
 # Email Scraper
 
