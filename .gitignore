@@ -1,0 +1,4 @@
+/build/*
+/dist/*
+/mwwlean_email_scraper/*
+/mwwlean_email_scraper.egg-info/*
